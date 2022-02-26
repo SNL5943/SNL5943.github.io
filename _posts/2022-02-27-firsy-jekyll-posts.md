@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my page!"
+categories: 
+  - Ehe~
+tags:
+  - update
 ---
 
 # Welcome

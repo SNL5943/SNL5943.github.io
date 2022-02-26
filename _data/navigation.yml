@@ -5,4 +5,4 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
