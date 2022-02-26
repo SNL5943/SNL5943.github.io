@@ -1,9 +1,11 @@
 ---
+layout: single
 title: "Welcome to my page!"
 categories: 
-  - Ehe~
+  - "Ehe~"
 tags:
   - update
+date: 2022-02-27
 ---
 
 # Welcome
