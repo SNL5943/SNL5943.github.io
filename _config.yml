@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Sang Ngoc Le"
-  avatar           : "/assets/images/avatar.JPG"
+  avatar           : "/assets/images/avatar.JPG" # https://www.iloveimg.com/resize-image/resize-png#resize-options,pixels
   bio              : "Software engineer, maker, photographer"
   location         : "HCMC"
 # email            : "sang.sko@gmail.com"
