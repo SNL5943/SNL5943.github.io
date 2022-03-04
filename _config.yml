@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/avatar.JPG"
   bio              : "Software engineer, maker, photographer"
   location         : "HCMC"
-  email            : "sang.sko@gmail.com"
+# email            : "sang.sko@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
