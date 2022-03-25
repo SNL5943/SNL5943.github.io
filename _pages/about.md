@@ -1,19 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-05-11T10:23:16-04:00
-toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hi,
+
+My name is Sang Ngoc Le, you can call me Sang. I am a software engineer with a strong interest in projects requiring conceptual, analytical and safety thinking. I enjoy developing products that make life better with end user's experience in mind, from Industrial products to Mobility solution. As a team player has worked in both start-up and big tech company, I believe that solving problems in daily work is not the only goal, but sharing knowledge and helping others are also the keys that construct a better community.

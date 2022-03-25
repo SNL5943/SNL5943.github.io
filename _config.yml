@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "SANG NGOC LE"
 description              : "Software engineer, maker, photographer"
 url                      : "sangngocle.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : #"sangngocle.github.io/home"
 repository               : "sangngocle/sangngocle.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
@@ -273,7 +273,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
       share: true
